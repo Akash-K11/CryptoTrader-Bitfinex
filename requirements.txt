@@ -1,0 +1,3 @@
+libcurl
+openssl
+nlohmann-json
